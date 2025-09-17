@@ -1,0 +1,5 @@
+{
+  "name": "Trovvin AI Keyboard",
+  "description": "An AI-powered text editor that provides smart autocorrection, sentence enhancement, and an integrated chat interface to help you write better and faster. Powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
